@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.1a45c559.chunk.css",
-  "main.js": "/static/js/main.f15ed524.chunk.js",
-  "main.js.map": "/static/js/main.f15ed524.chunk.js.map",
-  "static/js/1.f739feb7.chunk.js": "/static/js/1.f739feb7.chunk.js",
-  "static/js/1.f739feb7.chunk.js.map": "/static/js/1.f739feb7.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/main.1a45c559.chunk.css.map": "/static/css/main.1a45c559.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.b47e22dd4434ae53ae08ca39c1c4990d.js": "/precache-manifest.b47e22dd4434ae53ae08ca39c1c4990d.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/popper/static/css/main.1a45c559.chunk.css",
+  "main.js": "/popper/static/js/main.f12a9c5a.chunk.js",
+  "main.js.map": "/popper/static/js/main.f12a9c5a.chunk.js.map",
+  "static/js/1.f739feb7.chunk.js": "/popper/static/js/1.f739feb7.chunk.js",
+  "static/js/1.f739feb7.chunk.js.map": "/popper/static/js/1.f739feb7.chunk.js.map",
+  "runtime~main.js": "/popper/static/js/runtime~main.ac1856e0.js",
+  "runtime~main.js.map": "/popper/static/js/runtime~main.ac1856e0.js.map",
+  "static/css/main.1a45c559.chunk.css.map": "/popper/static/css/main.1a45c559.chunk.css.map",
+  "index.html": "/popper/index.html",
+  "precache-manifest.2f5d84ff4f75d5805ac923901407dca4.js": "/popper/precache-manifest.2f5d84ff4f75d5805ac923901407dca4.js",
+  "service-worker.js": "/popper/service-worker.js"
 }
