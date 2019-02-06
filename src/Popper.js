@@ -21,9 +21,9 @@ class Popper extends Component{
 
   render(){
     return(
-      <div key={this.props.popperKey}>
+      <div key={this.props.popperKey} className='popperContainer'>
         <div className={(this.state.active? 'active': null) + ' poppers'}>{this.props.popupText}</div>
-        <button onClick={this.toggleClass} className='theButton'>CLICK CLICK Me</button>
+        <button onClick={this.toggleClass} className='theButton'>{this.props.buttonText}</button>
       </div>
 
     )

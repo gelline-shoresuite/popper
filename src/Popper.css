@@ -1,7 +1,35 @@
+.popperContainer{
+  width: inherit;
+  height: 100%;
+
+  text-align: center;
+
+  display: inline-block;
+}
+
 .poppers{
   display: none;
+
+  background-color: BLACK;
+  color: WHITE;
+
+  width: 100px;
+  height: 50px;
+
+  padding: 5px;
+  position: absolute;
+
+  margin-top: 55px;
 }
 
 .active{
   display: block;
+
+  z-index: 100;
+}
+
+.theButton{
+  margin-left: 5px;
+
+  height: 50px;
 }

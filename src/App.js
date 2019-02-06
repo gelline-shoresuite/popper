@@ -1,12 +1,12 @@
 import React, { Component } from 'react';
-import './App.css';
 import Poppers from './Popper'
 
 class App extends Component {
   render() {
     return (
       <div className="App">
-        <Poppers popperKey="1" popupText="Hello"/> 
+        <Poppers popperKey="1" popupText="Hello" buttonText="Hello World"/> 
+        <Poppers popperKey="2" popupText="GoodBye" buttonText="Click Me!"/>
       </div>
     );
   }
