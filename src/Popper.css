@@ -10,16 +10,33 @@
 .poppers{
   display: none;
 
-  background-color: BLACK;
+  width: 100px;
+
+  background-color: black;
   color: WHITE;
 
-  width: 100px;
-  height: 50px;
+  padding: 5px; 
+  border-radius: 8px;
 
-  padding: 5px;
+  position: absolute;
+  float: left;
+}
+
+.poppers.arrow-top{
+  margin-top: 62px;
+}
+
+.poppers.arrow-top:after{
+  content: " ";
   position: absolute;
 
-  margin-top: 55px;
+  right: 20px;
+  top: -6px;
+
+  border-top: none;
+  border-right: 8px solid transparent;
+  border-left: 8px solid transparent;
+  border-bottom: 8px solid black;
 }
 
 .active{
